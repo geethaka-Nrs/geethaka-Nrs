@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geethaka Nawarathna</h1>
-- 👯 I’m looking to collaborate on **on Open Source Projects**
+- 👯 I’m looking to collaborate on on Open Source Projects
 
 <!--
 **geethaka-Nrs/geethaka-Nrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
